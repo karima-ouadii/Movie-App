@@ -1,0 +1,10 @@
+Movie details page : 
+
+    ✔ afficher id movie onclick sur (more details btn) @started(21-02-25 11:19) @done(21-02-25 12:00) @lasted(41m25s) 
+    ✔ envoyer id vers la page details.html @done(21-02-25 12:47)
+    ✔ recupeer id sur la page details.html @done(21-02-25 12:48)
+    ❍ affichage des infos depuis api (OMDB)(getquery)
+    ❍ creer html dynamique de la page details.html
+    ☐ afficher le contenu
+
+ 
